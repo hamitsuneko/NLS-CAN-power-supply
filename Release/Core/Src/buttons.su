@@ -1,0 +1,1 @@
+../Core/Src/buttons.cpp:17:6:void HAL_GPIO_EXTI_Callback(uint16_t)	24	static

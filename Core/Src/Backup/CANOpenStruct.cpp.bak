@@ -1,0 +1,17 @@
+/*
+ * canopenClass.cpp
+ *
+ *  Created on: Mar 11, 2024
+ *      Author: PopkovaDA
+ */
+
+
+#include "main_cpp.h"
+
+void CANOpenWrite(){
+    OD_PERSIST_COMM.x3F00_temperature = (int16_t)temperatureSensor.temperature;
+    OD_PERSIST_COMM.x3F01_voltage_AKB = voltageAKB;
+    OD_PERSIST_COMM.x3F02_voltage_Out = voltageOut;
+    OD_PERSIST_COMM.x3F03_current = adcData[2];
+
+}

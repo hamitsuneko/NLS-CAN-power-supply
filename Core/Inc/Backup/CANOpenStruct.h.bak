@@ -1,0 +1,22 @@
+/*
+ * canopenClass.h
+ *
+ *  Created on: Mar 11, 2024
+ *      Author: PopkovaDA
+ */
+
+#ifndef INC_CANOPENSTRUCT_H_
+#define INC_CANOPENSTRUCT_H_
+
+#include "main.h"
+#include "CO_app_STM32.h"
+#include "timers.h"
+#include "debug.h"
+#include "OD.h"
+
+
+void CANOpenWrite();
+
+
+
+#endif /* INC_CANOPENSTRUCT_H_ */

@@ -1,0 +1,20 @@
+/*
+ * onewire.c
+ *
+ *  Created on: 13 мар. 2024 г.
+ *      Author: PopkovaDA
+ */
+
+#include "onewire.h"
+
+// Изменение скорости на UART
+static void SetBaudrate(UART_HandleTypeDef *huart, uint32_t baudrate)
+{
+  uint32_t pclk = 0;
+  huart->Init.BaudRate = baudrate;
+
+  pclk = HAL_RCC_GetPCLK1Freq();
+
+  huart->Instance->BRR = UART_BRR_SAMPLING16(pclk, huart->Init.BaudRate);
+
+}

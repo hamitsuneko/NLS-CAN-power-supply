@@ -1,0 +1,7 @@
+../Core/Src/main_cpp.cpp:103:6:void checkAKB()	8	static
+../Core/Src/main_cpp.cpp:116:7:float calculateVoltage(float)	8	static
+../Core/Src/main_cpp.cpp:123:7:float calculateCurrent(float, float)	8	static
+../Core/Src/main_cpp.cpp:130:6:void calibration()	8	static
+../Core/Src/main_cpp.cpp:145:6:void DS18B20Init(DS18B20*)	16	static
+../Core/Src/main_cpp.cpp:162:6:void DS18B20Read(DS18B20*)	8	static
+../Core/Src/main_cpp.cpp:25:6:void mainCPP()	40	static

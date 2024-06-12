@@ -1,0 +1,6 @@
+../CANopenNode/storage/CO_eeprom.c:22:8:CO_eeprom_init	16	static
+../CANopenNode/storage/CO_eeprom.c:27:8:CO_eeprom_getAddr	32	static
+../CANopenNode/storage/CO_eeprom.c:40:6:CO_eeprom_readBlock	64	static
+../CANopenNode/storage/CO_eeprom.c:99:8:CO_eeprom_writeBlock	72	static
+../CANopenNode/storage/CO_eeprom.c:180:10:CO_eeprom_getCrcBlock	24	static
+../CANopenNode/storage/CO_eeprom.c:185:8:CO_eeprom_updateByte	24	static

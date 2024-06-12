@@ -1,0 +1,3 @@
+../CANopenNode/storage/CO_storage.c:34:14:OD_write_1010	24	static
+../CANopenNode/storage/CO_storage.c:84:14:OD_write_1011	24	static
+../CANopenNode/storage/CO_storage.c:129:18:CO_storage_init	4	static

@@ -1,0 +1,4 @@
+../CANopenNode/storage/CO_storageEeprom.c:80:14:restoreEeprom	24	static
+../CANopenNode/storage/CO_storageEeprom.c:36:14:storeEeprom	24	static,ignoring_inline_asm
+../CANopenNode/storage/CO_storageEeprom.c:108:18:CO_storageEeprom_init	88	dynamic
+../CANopenNode/storage/CO_storageEeprom.c:227:6:CO_storageEeprom_auto_process	24	static

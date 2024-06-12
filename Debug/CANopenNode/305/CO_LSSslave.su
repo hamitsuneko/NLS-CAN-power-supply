@@ -1,0 +1,8 @@
+../CANopenNode/305/CO_LSSslave.c:522:8:checkBitrate	0	static
+../CANopenNode/305/CO_LSSslave.c:52:13:CO_LSSslave_receive	12	static
+../CANopenNode/305/CO_LSSslave.c:506:8:storeIDandBitrate	32	static
+../CANopenNode/305/CO_LSSslave.c:289:6:CO_LSSslave_initCheckBitRateCallback	0	static
+../CANopenNode/305/CO_LSSslave.c:302:6:CO_LSSslave_initActivateBitRateCallback	0	static
+../CANopenNode/305/CO_LSSslave.c:315:6:CO_LSSslave_initCfgStoreCallback	0	static
+../CANopenNode/305/CO_LSSslave.c:206:18:CO_LSSslave_init	48	static
+../CANopenNode/305/CO_LSSslave.c:328:8:CO_LSSslave_process	16	static

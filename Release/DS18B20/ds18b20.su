@@ -1,0 +1,10 @@
+../DS18B20/ds18b20.c:14:16:CalculateChecksum	24	static
+../DS18B20/ds18b20.c:35:6:DS18B20_Init	16	static
+../DS18B20/ds18b20.c:44:16:DS18B20_InitializationCommand	24	static
+../DS18B20/ds18b20.c:73:23:ExecuteCommand	40	static
+../DS18B20/ds18b20.c:110:16:DS18B20_ReadRom	32	static
+../DS18B20/ds18b20.c:129:16:DS18B20_ReadScratchpad	32	static
+../DS18B20/ds18b20.c:174:16:DS18B20_WriteScratchpad	24	static
+../DS18B20/ds18b20.c:189:16:DS18B20_SkipRom	24	static
+../DS18B20/ds18b20.c:202:13:WaitForConversionFinished	24	static
+../DS18B20/ds18b20.c:211:16:DS18B20_ConvertT	24	static

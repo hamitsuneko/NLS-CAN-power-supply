@@ -1,0 +1,5 @@
+../Core/Src/main.c:69:6:HAL_TIM_PeriodElapsedCallback	8	static
+../Core/Src/main.c:77:6:readIDAndBitrate	40	static
+../Core/Src/main.c:172:6:SystemClock_Config	96	static
+../Core/Src/main.c:95:5:main	40	static
+../Core/Src/main.c:222:6:Error_Handler	0	static

@@ -1,0 +1,4 @@
+../CANopenNode_STM32/CO_app_STM32.c:68:1:canopen_app_init	48	static
+../CANopenNode_STM32/CO_app_STM32.c:118:1:canopen_app_resetCommunication	72	static
+../CANopenNode_STM32/CO_app_STM32.c:206:1:canopen_app_process	16	static
+../CANopenNode_STM32/CO_app_STM32.c:235:1:canopen_app_interrupt	24	static,ignoring_inline_asm
